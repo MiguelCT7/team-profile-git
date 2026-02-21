@@ -1,10 +1,9 @@
 Equipo de Desarrollo
 
 Integrantes:
-1. Nicolas
+1. Nicolas - DUITAMA VILLA OLIMPIC
 2. Miguel - Sogamoso
 3. Camilo
 
 Proyecto:
-Aplicación de perfiles del equipo
-Versión 2.0 - Nueva actualizacion
+version 3.0 lol
